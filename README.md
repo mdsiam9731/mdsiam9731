@@ -1,8 +1,17 @@
-### Hi there 👋
+### Hi there 👋, Hi there,I'm Siam
+#### Web & App Devoloper
+![Web & App Devoloper](https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/265003048_121517927007403_9166629263045365772_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_ohc=rGQEs2UzHywAX9BRgph&_nc_ht=scontent.fdac135-1.fna&oh=6a35a34a5deae02e56a28162532af1db&oe=61B3EF78)
 
-**mdsiam9731/mdsiam9731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Siam from Bangladesh, and I do Website Design and Development. I really enjoy learning languages and frameworks like Php Javascript Python Laravel  Node-JS   React and React Native ExpressJs, as well as work in WordPress. I also enjoy back-end programing, ui, ux, and design in general.
 
-Here are some ideas to get you started:
+Skills: BOOTSTARP/ REACT / JS / HTML / CSS/PHP
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
